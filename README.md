@@ -2,8 +2,6 @@
 ## practical file 
 > Questions
 ---
-_
-
 ````
 1. a) Implement Insertion Sort.
    b) Implement Merge Sort.
